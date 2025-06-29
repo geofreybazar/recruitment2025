@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-offwhite: #f8f9fa;
+  --color-ashBlack: #252527;
+  --color-customOrange: #f18b21;
+  --color-lightCustomOrange: #f5a347;
+  --color-darkCustomOrange: #b26518;
+  --color-bfpRed: #b22222; /* 	Primary buttons, highlights, alerts */
+  --color-bfpGold: #ffd700; /* 	Icons, badges, accents */
+  --color-bfpBlue: #002868; /* 	Headers, navbar, or call-to-action */
+  --color-bfpYellow: #ffcc00; /* 		Hero sections, accents, active elements */
+  --color-bfpCrimson: #8b0000; /* Hover states, subtle backgrounds */
+  --color-bfpSkyBlue: #3399ff; /* Informational banners, success states */
+  --color-bfpLightGray: #e0e0e0; /* Borders, separators */
+  --color-bfpDarkGray: #333333; /* Text, titles */
+}
